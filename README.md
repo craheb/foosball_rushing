@@ -2,6 +2,7 @@
 
 # Installation and running this solution
 Local:
+- Ensure you have elixir installed on your computer - https://elixir-lang.org/install.html
 - Run `mix deps.get && mix phx.server`
 
 Docker:
